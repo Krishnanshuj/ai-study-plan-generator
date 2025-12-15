@@ -1,0 +1,103 @@
+{
+  "Quantitative Ability": {
+    "Arithmetic": [
+      "Percentages",
+      "Profit & Loss",
+      "Simple Interest",
+      "Compound Interest",
+      "Ratio & Proportion",
+      "Averages",
+      "Time & Work",
+      "Time, Speed & Distance",
+      "Mixtures & Alligations"
+    ],
+    "Algebra": [
+      "Linear Equations",
+      "Quadratic Equations",
+      "Inequalities",
+      "Functions",
+      "Logarithms",
+      "Progressions (AP, GP, HP)",
+      "Modulus"
+    ],
+    "Number System": [
+      "Factors & Multiples",
+      "HCF & LCM",
+      "Remainders",
+      "Divisibility Rules",
+      "Cyclicity",
+      "Base Systems"
+    ],
+    "Geometry & Mensuration": [
+      "Lines & Angles",
+      "Triangles",
+      "Circles",
+      "Polygons",
+      "Coordinate Geometry",
+      "Area & Volume"
+    ],
+    "Modern Mathematics": [
+      "Permutations & Combinations",
+      "Probability",
+      "Set Theory",
+      "Venn Diagrams"
+    ]
+  },
+
+  "LRDI": {
+    "Logical Reasoning": [
+      "Seating Arrangements (Linear, Circular, Double Row)",
+      "Puzzles",
+      "Blood Relations",
+      "Direction Sense",
+      "Ordering & Ranking",
+      "Syllogisms",
+      "Clocks & Calendars",
+      "Binary Logic",
+      "Input–Output",
+      "Logical Connectives"
+    ],
+    "Data Interpretation": [
+      "Tables",
+      "Bar Graphs",
+      "Line Graphs",
+      "Pie Charts",
+      "Caselets",
+      "Combination Graphs",
+      "Data Sufficiency",
+      "Games & Tournaments"
+    ]
+  },
+
+  "VARC": {
+    "Reading Comprehension": [
+      "Factual Passages",
+      "Inferential Passages",
+      "Philosophical Passages",
+      "Abstract Passages",
+      "Science & Economics Passages"
+    ],
+    "RC Skills Tested": [
+      "Main Idea",
+      "Tone & Attitude",
+      "Inference",
+      "Summary",
+      "Title Selection"
+    ],
+    "Verbal Ability": [
+      "Para Jumbles",
+      "Para Completion",
+      "Odd Sentence Out",
+      "Sentence Completion",
+      "Summary Writing"
+    ],
+    "Grammar & Usage": [
+      "Subject–Verb Agreement",
+      "Tenses",
+      "Articles",
+      "Prepositions",
+      "Modifiers",
+      "Context-based Vocabulary"
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "Physics": {
+    "Mechanics": [
+      "Kinematics",
+      "Laws of Motion",
+      "Work, Energy & Power",
+      "Centre of Mass",
+      "Rotational Motion",
+      "Gravitation",
+      "Properties of Solids & Fluids",
+      "Oscillations & Waves"
+    ],
+    "Electrodynamics": [
+      "Electrostatics",
+      "Current Electricity",
+      "Capacitors",
+      "Magnetic Effects of Current",
+      "Electromagnetic Induction",
+      "Alternating Current"
+    ],
+    "Optics": [
+      "Ray Optics",
+      "Wave Optics"
+    ],
+    "Modern Physics": [
+      "Dual Nature of Matter",
+      "Atoms & Nuclei",
+      "Semiconductor Devices",
+      "Communication Systems"
+    ]
+  },
+
+  "Chemistry": {
+    "Physical Chemistry": [
+      "Mole Concept",
+      "Atomic Structure",
+      "Chemical Bonding",
+      "Thermodynamics",
+      "Thermochemistry",
+      "Chemical Equilibrium",
+      "Ionic Equilibrium",
+      "Electrochemistry",
+      "Chemical Kinetics",
+      "Surface Chemistry",
+      "Solid State"
+    ],
+    "Organic Chemistry": [
+      "General Organic Chemistry (GOC)",
+      "Hydrocarbons",
+      "Alkyl Halides",
+      "Alcohols, Phenols & Ethers",
+      "Aldehydes & Ketones",
+      "Carboxylic Acids",
+      "Amines",
+      "Biomolecules",
+      "Polymers",
+      "Practical Organic Chemistry"
+    ],
+    "Inorganic Chemistry": [
+      "Periodic Table & Periodicity",
+      "Hydrogen",
+      "s-block Elements",
+      "p-block Elements",
+      "d & f block Elements",
+      "Coordination Compounds",
+      "Metallurgy",
+      "Environmental Chemistry"
+    ]
+  },
+
+  "Mathematics": {
+    "Algebra": [
+      "Quadratic Equations",
+      "Sequences & Series",
+      "Complex Numbers",
+      "Binomial Theorem",
+      "Permutations & Combinations",
+      "Probability",
+      "Mathematical Induction",
+      "Sets, Relations & Functions"
+    ],
+    "Calculus": [
+      "Limits & Continuity",
+      "Differentiability",
+      "Applications of Derivatives",
+      "Indefinite Integration",
+      "Definite Integration",
+      "Differential Equations",
+      "Area Under Curves"
+    ],
+    "Trigonometry": [
+      "Trigonometric Ratios & Identities",
+      "Trigonometric Equations",
+      "Inverse Trigonometric Functions",
+      "Heights & Distances"
+    ],
+    "Coordinate Geometry": [
+      "Straight Lines",
+      "Circles",
+      "Parabola",
+      "Ellipse",
+      "Hyperbola",
+      "3D Geometry"
+    ]
+  }
+}
+
+

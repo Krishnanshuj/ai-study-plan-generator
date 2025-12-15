@@ -1,0 +1,83 @@
+{
+  "Core Subject": {
+    "Engineering Fundamentals": [
+      "Basics of Engineering",
+      "Signals & Systems",
+      "Control Systems",
+      "Electrical Fundamentals",
+      "Mechanical Fundamentals",
+      "Civil Fundamentals",
+      "Thermodynamics",
+      "Strength of Materials",
+      "Fluid Mechanics",
+      "Manufacturing Processes",
+      "Digital Concepts",
+      "Analog Concepts",
+      "Engineering Design",
+      "Computer Fundamentals"
+    ]
+  },
+
+  "Engineering Mathematics": {
+    "Linear Algebra": [
+      "Matrices",
+      "Determinants",
+      "Systems of Linear Equations",
+      "Eigenvalues",
+      "Eigenvectors"
+    ],
+    "Calculus": [
+      "Limits & Continuity",
+      "Differentiation",
+      "Applications of Derivatives",
+      "Integration",
+      "Differential Equations"
+    ],
+    "Probability & Statistics": [
+      "Probability Theory",
+      "Random Variables",
+      "Probability Distributions",
+      "Mean",
+      "Variance",
+      "Bayes’ Theorem"
+    ],
+    "Numerical Methods": [
+      "Roots of Equations",
+      "Interpolation",
+      "Numerical Integration",
+      "Numerical Solution of ODEs"
+    ],
+    "Discrete Mathematics": [
+      "Logic",
+      "Set Theory",
+      "Relations & Functions",
+      "Graph Theory",
+      "Combinatorics"
+    ]
+  },
+
+  "General Aptitude": {
+    "Verbal Ability": [
+      "English Grammar",
+      "Sentence Correction",
+      "Vocabulary",
+      "Reading Comprehension",
+      "Verbal Analogies"
+    ],
+    "Quantitative Aptitude": [
+      "Numerical Computation",
+      "Data Interpretation",
+      "Percentages",
+      "Ratios",
+      "Averages",
+      "Time & Work"
+    ],
+    "Logical Reasoning": [
+      "Analytical Reasoning",
+      "Puzzles",
+      "Series",
+      "Coding–Decoding",
+      "Directions"
+    ]
+  }
+}

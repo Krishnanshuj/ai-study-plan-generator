@@ -1,0 +1,110 @@
+{
+  "GS Paper 1": {
+    "History": [
+      "Ancient Indian History",
+      "Medieval Indian History",
+      "Modern Indian History",
+      "Indian National Movement",
+      "World History (18th Century Onwards)",
+      "Post-Independence India"
+    ],
+    "Geography": [
+      "Physical Geography (Geomorphology, Climatology, Oceanography)",
+      "Indian Geography",
+      "World Geography",
+      "Resources Distribution",
+      "Agriculture & Industries",
+      "Human Geography"
+    ],
+    "Indian Society": [
+      "Salient Features of Indian Society",
+      "Diversity of India",
+      "Social Empowerment",
+      "Poverty & Development",
+      "Urbanization",
+      "Role of Women & NGOs"
+    ]
+  },
+
+  "GS Paper 2": {
+    "Indian Polity": [
+      "Constitution of India",
+      "Fundamental Rights & Duties",
+      "Union & State Government",
+      "Parliament & State Legislatures",
+      "Judiciary",
+      "Federalism",
+      "Local Self-Government"
+    ],
+    "Governance": [
+      "Public Policy",
+      "Transparency & Accountability",
+      "E-Governance",
+      "Role of Civil Services",
+      "Welfare Schemes",
+      "NGOs & SHGs"
+    ],
+    "International Relations": [
+      "India & Neighbourhood",
+      "Bilateral & Multilateral Relations",
+      "Global Groupings (UN, WTO, IMF)",
+      "India & Global South",
+      "International Institutions"
+    ]
+  },
+
+  "GS Paper 3": {
+    "Indian Economy": [
+      "Indian Economic Development",
+      "Planning & Budgeting",
+      "Inclusive Growth",
+      "Agriculture & Food Security",
+      "Industrial Policy",
+      "Infrastructure",
+      "Banking & Finance"
+    ],
+    "Environment & Ecology": [
+      "Biodiversity",
+      "Climate Change",
+      "Environmental Pollution",
+      "Conservation",
+      "Environmental Impact Assessment"
+    ],
+    "Science & Technology": [
+      "Developments in Science & Technology",
+      "Biotechnology",
+      "Space Technology",
+      "IT & AI",
+      "Defence Technology"
+    ],
+    "Internal Security": [
+      "Terrorism",
+      "Cyber Security",
+      "Border Management",
+      "Organized Crime",
+      "Role of Security Forces"
+    ]
+  },
+
+  "GS Paper 4": {
+    "Ethics & Human Interface": [
+      "Ethics & Human Values",
+      "Attitude",
+      "Emotional Intelligence"
+    ],
+    "Integrity & Aptitude": [
+      "Public / Civil Service Values",
+      "Probity in Governance",
+      "Accountability",
+      "Transparency"
+    ],
+    "Thinkers & Philosophers": [
+      "Contributions of Moral Thinkers (India & World)"
+    ],
+    "Case Studies": [
+      "Ethical Dilemmas",
+      "Decision Making",
+      "Administrative Ethics"
+    ]
+  }
+}

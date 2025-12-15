@@ -1,0 +1,116 @@
+{
+  "Quantitative Aptitude": {
+    "Arithmetic": [
+      "Number System",
+      "Percentages",
+      "Profit & Loss",
+      "Ratio & Proportion",
+      "Averages",
+      "Simple Interest",
+      "Compound Interest",
+      "Time & Work",
+      "Time, Speed & Distance",
+      "Mixtures & Alligations"
+    ],
+    "Algebra": [
+      "Linear Equations",
+      "Quadratic Equations",
+      "Polynomials",
+      "Inequalities",
+      "Surds & Indices"
+    ],
+    "Geometry": [
+      "Lines & Angles",
+      "Triangles",
+      "Circles",
+      "Polygons",
+      "Mensuration (2D & 3D)"
+    ],
+    "Trigonometry": [
+      "Trigonometric Ratios",
+      "Heights & Distances",
+      "Trigonometric Identities"
+    ],
+    "Data Interpretation": [
+      "Tables",
+      "Bar Graphs",
+      "Pie Charts",
+      "Line Graphs"
+    ]
+  },
+
+  "Reasoning": {
+    "Logical Reasoning": [
+      "Analogy",
+      "Classification",
+      "Series (Number / Alphabet)",
+      "Coding–Decoding",
+      "Blood Relations",
+      "Direction Sense",
+      "Order & Ranking",
+      "Seating Arrangements"
+    ],
+    "Analytical Reasoning": [
+      "Syllogisms",
+      "Statement & Conclusion",
+      "Statement & Assumptions",
+      "Venn Diagrams",
+      "Data Sufficiency",
+      "Puzzle-based Reasoning"
+    ],
+    "Non-Verbal Reasoning": [
+      "Figure Series",
+      "Figure Classification",
+      "Mirror Images",
+      "Water Images",
+      "Paper Folding & Cutting"
+    ]
+  },
+
+  "English Language": {
+    "Grammar": [
+      "Parts of Speech",
+      "Tenses",
+      "Subject–Verb Agreement",
+      "Articles",
+      "Prepositions",
+      "Voice (Active/Passive)",
+      "Narration (Direct/Indirect)",
+      "Error Spotting"
+    ],
+    "Comprehension": [
+      "Reading Comprehension",
+      "Cloze Test",
+      "Sentence Improvement",
+      "Fill in the Blanks"
+    ],
+    "Vocabulary": [
+      "Synonyms & Antonyms",
+      "One-word Substitution",
+      "Idioms & Phrases",
+      "Spelling Errors"
+    ]
+  },
+
+  "General Knowledge": {
+    "Static GK": [
+      "History",
+      "Geography",
+      "Indian Polity",
+      "Indian Economy",
+      "Indian Culture",
+      "Awards & Honours",
+      "Books & Authors",
+      "Important Days"
+    ],
+    "Current Affairs": [
+      "National News",
+      "International News",
+      "Sports",
+      "Science & Technology",
+      "Government Schemes",
+      "Appointments"
+    ]
+  }
+}
+

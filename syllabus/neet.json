@@ -1,0 +1,115 @@
+{
+  "Physics": {
+    "Mechanics": [
+      "Units & Measurements",
+      "Kinematics",
+      "Laws of Motion",
+      "Work, Energy & Power",
+      "Centre of Mass & Rotational Motion",
+      "Gravitation",
+      "Properties of Solids & Fluids",
+      "Oscillations & Waves"
+    ],
+    "Thermodynamics": [
+      "Thermal Properties of Matter",
+      "Laws of Thermodynamics",
+      "Kinetic Theory of Gases"
+    ],
+    "Electrodynamics": [
+      "Electrostatics",
+      "Current Electricity",
+      "Capacitors",
+      "Magnetic Effects of Current",
+      "Magnetism & Matter",
+      "Electromagnetic Induction",
+      "Alternating Current"
+    ],
+    "Optics": [
+      "Ray Optics",
+      "Wave Optics"
+    ],
+    "Modern Physics": [
+      "Dual Nature of Matter & Radiation",
+      "Atoms",
+      "Nuclei",
+      "Semiconductor Electronics"
+    ]
+  },
+
+  "Chemistry": {
+    "Physical Chemistry": [
+      "Some Basic Concepts of Chemistry (Mole Concept)",
+      "Atomic Structure",
+      "States of Matter",
+      "Thermodynamics",
+      "Chemical Equilibrium",
+      "Ionic Equilibrium",
+      "Redox Reactions",
+      "Electrochemistry",
+      "Chemical Kinetics",
+      "Surface Chemistry",
+      "Solid State",
+      "Solutions"
+    ],
+    "Organic Chemistry": [
+      "General Organic Chemistry (GOC)",
+      "Hydrocarbons",
+      "Haloalkanes & Haloarenes",
+      "Alcohols, Phenols & Ethers",
+      "Aldehydes, Ketones & Carboxylic Acids",
+      "Amines",
+      "Biomolecules",
+      "Polymers",
+      "Chemistry in Everyday Life",
+      "Practical Organic Chemistry"
+    ],
+    "Inorganic Chemistry": [
+      "Periodic Table & Periodicity",
+      "Hydrogen",
+      "s-Block Elements",
+      "p-Block Elements",
+      "d & f Block Elements",
+      "Coordination Compounds",
+      "Metallurgy",
+      "Environmental Chemistry"
+    ]
+  },
+
+  "Biology": {
+    "Botany": [
+      "Diversity in Living World",
+      "Plant Kingdom",
+      "Morphology of Flowering Plants",
+      "Anatomy of Flowering Plants",
+      "Cell Structure & Function",
+      "Plant Physiology",
+      "Photosynthesis",
+      "Respiration in Plants",
+      "Plant Growth & Development"
+    ],
+    "Zoology": [
+      "Animal Kingdom",
+      "Structural Organisation in Animals",
+      "Digestion & Absorption",
+      "Breathing & Exchange of Gases",
+      "Body Fluids & Circulation",
+      "Excretory Products",
+      "Locomotion & Movement",
+      "Neural Control & Coordination",
+      "Chemical Coordination & Integration"
+    ],
+    "Genetics & Evolution": [
+      "Principles of Inheritance",
+      "Molecular Basis of Inheritance",
+      "Evolution"
+    ],
+    "Ecology & Environment": [
+      "Organisms & Environment",
+      "Ecosystem",
+      "Biodiversity & Conservation",
+      "Environmental Issues"
+    ]
+  }
+}
+
+
